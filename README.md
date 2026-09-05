@@ -1,4 +1,4 @@
-# github-foundations-training
+# GitHub Foundations Training
 
 Repository created during my
 preparation for the GitHub
