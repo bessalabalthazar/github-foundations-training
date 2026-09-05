@@ -12,3 +12,15 @@ Foundations certification
 - Learn Pull Requests
 - Learn GitHub Actions
 - Prepare for GH-900
+
+## GitHub Collaboration
+
+I am learning:
+
+- Issues
+- Projects
+- Discussions
+- Pull Requests
+- Code Reviews
+- Labels
+- Milestones
